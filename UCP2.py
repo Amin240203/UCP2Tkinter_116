@@ -1,6 +1,5 @@
 import sqlite3
-import tkinter as tk
-from tkinter import Tk, Label, Entry, Button, ttk, Toplevel
+from tkinter import Tk, Label, Entry, Button
 
 # Fungsi untuk membuat tabel jika belum ada
 def create_table():
